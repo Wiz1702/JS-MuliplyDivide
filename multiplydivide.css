@@ -6,3 +6,8 @@ body {
 h1 {
   color: purple;
 }
+
+.answer {
+  color: green;
+  font: cursive;
+}
